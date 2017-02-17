@@ -25,3 +25,4 @@ This is a trivial Java EE 7 sample.
 Newline
 Erreur systeme
 NewModif
+NewTest
